@@ -1,6 +1,5 @@
 
-Hosted Link: https://react-project-cece.netlify.app/
-
+https://alt-sch-2nd-semester-exams.vercel.app/
 
 # Getting Started with Create React App
 
